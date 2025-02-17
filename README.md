@@ -16,8 +16,8 @@ Aqui estão algumas das tecnologias com as quais trabalho e que estou aprendendo
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 📚 Atualmente Estudando
-- Modelagem de Dados
-- Big Data & Computação em Nuvem
+- Análise de Dados
+- Data Science
 - Machine Learning & IA
 
 ## 📊 GitHub Stats
