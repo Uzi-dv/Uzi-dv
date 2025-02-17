@@ -1,7 +1,7 @@
 # 👋 Olá, bem-vindo ao meu perfil!
 
 ## 🚀 Sobre Mim
-Sou estudante de **Sistemas de Informação**  e apaixonado por tecnologia. Sempre estou aprendendo algo novo para aprimorar minhas habilidades e contribuir para projetos interessantes. 
+Sou estudante de **Sistemas de Informação** e apaixonado por tecnologia. Sempre estou aprendendo algo novo para aprimorar minhas habilidades e contribuir para projetos interessantes.
 
 ## 🛠️ Tecnologias
 Aqui estão algumas das tecnologias com as quais trabalho e que estou aprendendo:
@@ -20,10 +20,12 @@ Aqui estão algumas das tecnologias com as quais trabalho e que estou aprendendo
 - Big Data & Computação em Nuvem
 - Machine Learning & IA
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uzi-dv&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzi-dv&layout=compact&theme=radical)
+
 ## 📬 Vamos Conectar?
 Se quiser acompanhar minha jornada ou trocar ideias, sinta-se à vontade para me contatar:
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&-logoColor=white)](mailto:gabrieldamata18@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santos-375a02236) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Uzi-dv)
-
-
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santos-375a02236) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Uzi-dv)  
+📧 Email: gabrieldamata18@gmail.com
