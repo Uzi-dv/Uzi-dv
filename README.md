@@ -1,4 +1,4 @@
-# 👋 Olá, bem-vindo ao meu perfil!
+# 👋 Hi, I'm Gabriel Santos!
 
 ## 🚀 Sobre Mim
 Sou estudante de **Sistemas de Informação** e apaixonado por tecnologia. Sempre estou aprendendo algo novo para aprimorar minhas habilidades e contribuir para projetos interessantes.
